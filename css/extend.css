@@ -1,0 +1,15 @@
+.extended-two, .extended {
+  width: 300px;
+  height: 30px;
+  background-color: blue;
+}
+
+.extended {
+  border-radius: 50px;
+}
+
+.extended-two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
